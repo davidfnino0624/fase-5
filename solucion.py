@@ -1,8 +1,12 @@
-# =====================================================================
-# Curso: Fundamentos de Programación (Código: 213022)
+# ---------------------------------------------------------
+# Nombre del estudiante: David Felipe Niño Rodriguez
+# Grupo: 13022_747
+# Programa: Ingeniería de Sistemas
+# Código Fuente: autoría propia
+# Curso: Fundamentos de Programación
 # Fase 5 - Evaluación Final POA
 # Solución al Problema 3: Auditoría de Inventario
-# =====================================================================
+# ---------------------------------------------------------
 
 def calcular_cantidad_a_pedir(stock_actual, stock_minimo):
     """
